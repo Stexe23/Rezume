@@ -1,5 +1,5 @@
-import LeftBlock from './LeftBlock/LeftBlock';
-import RightBlock from './RightBlock/RightBlock';
+import LeftBlock from '../src/components/LeftBlock/LeftBlock';
+import RightBlock from '../src/components/RightBlock';
 import './App.css';
 
 function App() {

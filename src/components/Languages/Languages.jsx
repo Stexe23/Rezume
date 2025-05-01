@@ -1,9 +1,10 @@
-import React from "react";
+import './Languages.css';
 
 //Языки
 function Languages () {
     return (
-        <div >
+        <div className="lAnguages">
+            <h2>Языки</h2>
             <p>Русский </p><p>родной</p>
             <p>Ангийский </p><p>начинающий</p>
         </div>
