@@ -1,3 +1,6 @@
+import Foto from '../Foto/Foto';
+import About from '../About/About'
+
 import './LeftBlock.css'
 
 function LeftBlock() {
@@ -6,7 +9,8 @@ function LeftBlock() {
     
     
             Левый блок
-          
+            <Foto />
+            <About />
           
       </div>
     );

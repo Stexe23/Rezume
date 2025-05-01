@@ -4,7 +4,6 @@ function RightBlock() {
     return (
       <div className="rightBlock">
     
-          
             Правый блок
           
       </div>
