@@ -1,9 +1,9 @@
-import React from "react";
+import './WorkExperience.css'
 
 //Опат работы
 function WorkExperience () {
     return (
-        <div >
+        <div className='workExperience'>
             Опыт работы
         </div>
 

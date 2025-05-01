@@ -1,9 +1,9 @@
-import React from "react";
+import './Skills.css';
 
 //Навыки
 function Skills () {
     return (
-        <div >
+        <div className='skills'>
             <h2>Навыки</h2>
                 <h3>Общие</h3>
                     <p>- могу работать</p>

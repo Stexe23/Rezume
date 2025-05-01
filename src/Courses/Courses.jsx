@@ -1,9 +1,9 @@
-import React from "react";
+import './Courses.css';
 
 //Курсы
-function Resume () {
+function Courses () {
     return (
-        <div >
+        <div className="cOurses">
             <h2>Курсы</h2>
             <h3>SkillFactory</h3>
             <p>Окончагние: май 2023</p>
@@ -14,4 +14,4 @@ function Resume () {
     );
 }
 
-export default Resume;
+export default Courses;

@@ -1,9 +1,9 @@
-import React from "react";
+import './Foto.css'
 
 //Фото
 function Foto () {
     return (
-        <div >
+        <div className='fOto'>
             Фото
             <img></img>
         </div>

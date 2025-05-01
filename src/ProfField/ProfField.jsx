@@ -1,9 +1,9 @@
-import React from "react";
+import './ProfField.css';
 
 //Профессиональные навыки
 function ProfField () {
     return (
-        <div >
+        <div className="profField">
             Профессиональные навыки
         </div>
 

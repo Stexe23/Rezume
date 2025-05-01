@@ -1,9 +1,9 @@
-import React from "react";
+import './Contacts.css'
 
 //Контакты
 function Contacts () {
     return (
-        <div >
+        <div className="cOntacts">
             <h2>Контакты</h2>            
             <p>Tel: +9123885966</p>
             <p>Telegram</p>

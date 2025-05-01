@@ -1,9 +1,9 @@
-import React from "react";
+import './Education.css'
 
 //Обучение
 function Education () {
     return (
-        <div >
+        <div className='eDucation'>
             <h2>Образование</h2>
                 <p>Год окончаня:</p> <p>1999</p>
                 <p>Неполное среднее:</p> <p>Средная школа №39</p>
