@@ -1,4 +1,7 @@
 .leftBlock
 {
     color: green;
+    height: 2500px;
+    width: 25%;
+    background-color: rgb(224, 216, 214);
 }

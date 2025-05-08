@@ -1,5 +1,6 @@
 import LeftBlock from '../src/components/LeftBlock/LeftBlock';
-import RightBlock from '../src/components/RightBlock';
+import RightBlock from '../src/components/RightBlock/RightBlock';
+
 import './App.css';
 
 function App() {
@@ -8,9 +9,6 @@ function App() {
       <header className="App-header">
         
         <LeftBlock />
-        <p>
-          текст
-        </p>
         <RightBlock />
       </header>
     </div>

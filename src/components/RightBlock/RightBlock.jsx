@@ -1,4 +1,4 @@
-import WorkExperince from '../WorkExperience/WorkExperience';
+import WorkExperince from '../WorkExperience/WorkExperience'
 import ProfField from '../ProfField/ProfField';
 import Education from '../Education/Education';
 import Courses from '../Courses/Courses';
