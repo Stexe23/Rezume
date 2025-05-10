@@ -1,4 +1,8 @@
 .App {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex; 
+  display: flex;
   text-align: left;
   text-indent: 10px;
   width: auto;
@@ -40,13 +44,11 @@ p {
 }
 
 h2 {
-  width: 50%;
-  height: auto;
+
   font-size: 24pt;
   border: medium solid black;
   border-radius: 10px;
   text-align: center;
-  margin: auto;
 }
 
 h3 {
