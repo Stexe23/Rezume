@@ -4,6 +4,7 @@ import './ProfField.css';
 function ProfField () {
     return (
         <div className="profField">
+            <h2>Профессиональные навыки</h2>
             Профессиональные навыки
         </div>
 

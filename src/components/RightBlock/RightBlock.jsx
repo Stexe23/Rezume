@@ -10,7 +10,7 @@ function RightBlock() {
       <div className="rightBlock">
             Правый блок
             <ProfField />
-            <ProfField />
+            <WorkExperince/>
             <Education />
             <Courses />          
       </div>

@@ -4,6 +4,7 @@ import './WorkExperience.css'
 function WorkExperience () {
     return (
         <div className='workExperience'>
+            <h2>Опыт работы</h2>
             Опыт работы
         </div>
 

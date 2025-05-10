@@ -1,11 +1,13 @@
 import './Foto.css'
 
+import foto from '../images/foto.png'
+
 //Фото
 function Foto () {
     return (
         <div className='fOto'>
-            Фото
-            <img></img>
+          
+            <img src={foto} alt='Фото' />
         </div>
 
     );
