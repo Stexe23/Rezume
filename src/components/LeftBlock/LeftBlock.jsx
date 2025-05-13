@@ -9,7 +9,6 @@ import './LeftBlock.css';
 function LeftBlock() {
     return (
       <div className="leftBlock"> 
-            Левый блок
             <Foto />
             <About />
             <Contacts />

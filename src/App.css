@@ -4,7 +4,7 @@
   display: -webkit-flex; 
   display: flex;
   text-align: left;
-  text-indent: 10px;
+
   width: auto;
   height: auto;
 }
@@ -23,7 +23,7 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+
   color: white;
 }
 
@@ -41,6 +41,7 @@
 }
 p {
   font-size: 12pt;
+  text-align: start;
 }
 
 h2 {

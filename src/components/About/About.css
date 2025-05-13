@@ -1,3 +1,8 @@
 .aBout {
-    color: yellow;
+    color: rgb(243, 149, 26);
+}
+
+.money {
+    font-size: 16pt;
+    text-align: end;
 }

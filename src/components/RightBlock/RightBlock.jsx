@@ -8,7 +8,6 @@ import './RightBlock.css'
 function RightBlock() {
     return (
       <div className="rightBlock">
-            Правый блок
             <ProfField />
             <WorkExperince/>
             <Education />
